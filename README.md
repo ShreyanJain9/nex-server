@@ -9,7 +9,7 @@ The Nex Server is a simple server that serves files and directory listings over 
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/nexserver.git
+   git clone https://github.com/ShreyanJain9/nexserver
    cd nexserver
    cd build
    go build main.go
