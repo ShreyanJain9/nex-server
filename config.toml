@@ -1,0 +1,2 @@
+port = 1900
+directory = "/var/nex/data/"
